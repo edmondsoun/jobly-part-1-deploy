@@ -1,0 +1,10 @@
+.CompanyList h1 {
+  text-shadow: 2px 2px 5px rgb(52, 48, 47);
+  padding: 2rem;
+}
+
+.CompanyList h1,
+.CompanyList .lead {
+  color: #ffffff;
+  text-align: center;
+}

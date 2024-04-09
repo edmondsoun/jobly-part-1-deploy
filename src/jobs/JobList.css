@@ -1,0 +1,10 @@
+ .JobList h1 {
+   text-shadow: 2px 2px 5px rgb(52, 48, 47);
+   padding: 2rem;
+ }
+
+ .JobList h1,
+ .JobList .lead {
+   color: #ffffff;
+   text-align: center;
+ }
